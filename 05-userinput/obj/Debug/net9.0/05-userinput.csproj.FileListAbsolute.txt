@@ -1,0 +1,14 @@
+d:\C Sharp\05-userinput\bin\Debug\net9.0\05-userinput.exe
+d:\C Sharp\05-userinput\bin\Debug\net9.0\05-userinput.deps.json
+d:\C Sharp\05-userinput\bin\Debug\net9.0\05-userinput.runtimeconfig.json
+d:\C Sharp\05-userinput\bin\Debug\net9.0\05-userinput.dll
+d:\C Sharp\05-userinput\bin\Debug\net9.0\05-userinput.pdb
+d:\C Sharp\05-userinput\obj\Debug\net9.0\05-userinput.GeneratedMSBuildEditorConfig.editorconfig
+d:\C Sharp\05-userinput\obj\Debug\net9.0\05-userinput.AssemblyInfoInputs.cache
+d:\C Sharp\05-userinput\obj\Debug\net9.0\05-userinput.AssemblyInfo.cs
+d:\C Sharp\05-userinput\obj\Debug\net9.0\05-userinput.csproj.CoreCompileInputs.cache
+d:\C Sharp\05-userinput\obj\Debug\net9.0\05-userinput.dll
+d:\C Sharp\05-userinput\obj\Debug\net9.0\refint\05-userinput.dll
+d:\C Sharp\05-userinput\obj\Debug\net9.0\05-userinput.pdb
+d:\C Sharp\05-userinput\obj\Debug\net9.0\05-userinput.genruntimeconfig.cache
+d:\C Sharp\05-userinput\obj\Debug\net9.0\ref\05-userinput.dll

@@ -1,0 +1,14 @@
+d:\C Sharp\04-constant_typecasting\bin\Debug\net9.0\04-constant_typecasting.exe
+d:\C Sharp\04-constant_typecasting\bin\Debug\net9.0\04-constant_typecasting.deps.json
+d:\C Sharp\04-constant_typecasting\bin\Debug\net9.0\04-constant_typecasting.runtimeconfig.json
+d:\C Sharp\04-constant_typecasting\bin\Debug\net9.0\04-constant_typecasting.dll
+d:\C Sharp\04-constant_typecasting\bin\Debug\net9.0\04-constant_typecasting.pdb
+d:\C Sharp\04-constant_typecasting\obj\Debug\net9.0\04-constant_typecasting.GeneratedMSBuildEditorConfig.editorconfig
+d:\C Sharp\04-constant_typecasting\obj\Debug\net9.0\04-constant_typecasting.AssemblyInfoInputs.cache
+d:\C Sharp\04-constant_typecasting\obj\Debug\net9.0\04-constant_typecasting.AssemblyInfo.cs
+d:\C Sharp\04-constant_typecasting\obj\Debug\net9.0\04-constant_typecasting.csproj.CoreCompileInputs.cache
+d:\C Sharp\04-constant_typecasting\obj\Debug\net9.0\04-constant_typecasting.dll
+d:\C Sharp\04-constant_typecasting\obj\Debug\net9.0\refint\04-constant_typecasting.dll
+d:\C Sharp\04-constant_typecasting\obj\Debug\net9.0\04-constant_typecasting.pdb
+d:\C Sharp\04-constant_typecasting\obj\Debug\net9.0\04-constant_typecasting.genruntimeconfig.cache
+d:\C Sharp\04-constant_typecasting\obj\Debug\net9.0\ref\04-constant_typecasting.dll

@@ -1,0 +1,14 @@
+D:\C Sharp\09-switchcase\bin\Debug\net9.0\09-switchcase.exe
+D:\C Sharp\09-switchcase\bin\Debug\net9.0\09-switchcase.deps.json
+D:\C Sharp\09-switchcase\bin\Debug\net9.0\09-switchcase.runtimeconfig.json
+D:\C Sharp\09-switchcase\bin\Debug\net9.0\09-switchcase.dll
+D:\C Sharp\09-switchcase\bin\Debug\net9.0\09-switchcase.pdb
+D:\C Sharp\09-switchcase\obj\Debug\net9.0\09-switchcase.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\09-switchcase\obj\Debug\net9.0\09-switchcase.AssemblyInfoInputs.cache
+D:\C Sharp\09-switchcase\obj\Debug\net9.0\09-switchcase.AssemblyInfo.cs
+D:\C Sharp\09-switchcase\obj\Debug\net9.0\09-switchcase.csproj.CoreCompileInputs.cache
+D:\C Sharp\09-switchcase\obj\Debug\net9.0\09-switchcase.dll
+D:\C Sharp\09-switchcase\obj\Debug\net9.0\refint\09-switchcase.dll
+D:\C Sharp\09-switchcase\obj\Debug\net9.0\09-switchcase.pdb
+D:\C Sharp\09-switchcase\obj\Debug\net9.0\09-switchcase.genruntimeconfig.cache
+D:\C Sharp\09-switchcase\obj\Debug\net9.0\ref\09-switchcase.dll

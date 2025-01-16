@@ -1,0 +1,14 @@
+d:\C Sharp\03-datatype_variables\bin\Debug\net9.0\03-datatype_variables.exe
+d:\C Sharp\03-datatype_variables\bin\Debug\net9.0\03-datatype_variables.deps.json
+d:\C Sharp\03-datatype_variables\bin\Debug\net9.0\03-datatype_variables.runtimeconfig.json
+d:\C Sharp\03-datatype_variables\bin\Debug\net9.0\03-datatype_variables.dll
+d:\C Sharp\03-datatype_variables\bin\Debug\net9.0\03-datatype_variables.pdb
+d:\C Sharp\03-datatype_variables\obj\Debug\net9.0\03-datatype_variables.GeneratedMSBuildEditorConfig.editorconfig
+d:\C Sharp\03-datatype_variables\obj\Debug\net9.0\03-datatype_variables.AssemblyInfoInputs.cache
+d:\C Sharp\03-datatype_variables\obj\Debug\net9.0\03-datatype_variables.AssemblyInfo.cs
+d:\C Sharp\03-datatype_variables\obj\Debug\net9.0\03-datatype_variables.csproj.CoreCompileInputs.cache
+d:\C Sharp\03-datatype_variables\obj\Debug\net9.0\03-datatype_variables.dll
+d:\C Sharp\03-datatype_variables\obj\Debug\net9.0\refint\03-datatype_variables.dll
+d:\C Sharp\03-datatype_variables\obj\Debug\net9.0\03-datatype_variables.pdb
+d:\C Sharp\03-datatype_variables\obj\Debug\net9.0\03-datatype_variables.genruntimeconfig.cache
+d:\C Sharp\03-datatype_variables\obj\Debug\net9.0\ref\03-datatype_variables.dll

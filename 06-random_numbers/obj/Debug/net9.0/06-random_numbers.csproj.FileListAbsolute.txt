@@ -1,0 +1,14 @@
+D:\C Sharp\06-random_numbers\bin\Debug\net9.0\06-random_numbers.exe
+D:\C Sharp\06-random_numbers\bin\Debug\net9.0\06-random_numbers.deps.json
+D:\C Sharp\06-random_numbers\bin\Debug\net9.0\06-random_numbers.runtimeconfig.json
+D:\C Sharp\06-random_numbers\bin\Debug\net9.0\06-random_numbers.dll
+D:\C Sharp\06-random_numbers\bin\Debug\net9.0\06-random_numbers.pdb
+D:\C Sharp\06-random_numbers\obj\Debug\net9.0\06-random_numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\06-random_numbers\obj\Debug\net9.0\06-random_numbers.AssemblyInfoInputs.cache
+D:\C Sharp\06-random_numbers\obj\Debug\net9.0\06-random_numbers.AssemblyInfo.cs
+D:\C Sharp\06-random_numbers\obj\Debug\net9.0\06-random_numbers.csproj.CoreCompileInputs.cache
+D:\C Sharp\06-random_numbers\obj\Debug\net9.0\06-random_numbers.dll
+D:\C Sharp\06-random_numbers\obj\Debug\net9.0\refint\06-random_numbers.dll
+D:\C Sharp\06-random_numbers\obj\Debug\net9.0\06-random_numbers.pdb
+D:\C Sharp\06-random_numbers\obj\Debug\net9.0\06-random_numbers.genruntimeconfig.cache
+D:\C Sharp\06-random_numbers\obj\Debug\net9.0\ref\06-random_numbers.dll

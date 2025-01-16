@@ -1,0 +1,14 @@
+D:\C Sharp\10-loops\bin\Debug\net9.0\10-loops.exe
+D:\C Sharp\10-loops\bin\Debug\net9.0\10-loops.deps.json
+D:\C Sharp\10-loops\bin\Debug\net9.0\10-loops.runtimeconfig.json
+D:\C Sharp\10-loops\bin\Debug\net9.0\10-loops.dll
+D:\C Sharp\10-loops\bin\Debug\net9.0\10-loops.pdb
+D:\C Sharp\10-loops\obj\Debug\net9.0\10-loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\10-loops\obj\Debug\net9.0\10-loops.AssemblyInfoInputs.cache
+D:\C Sharp\10-loops\obj\Debug\net9.0\10-loops.AssemblyInfo.cs
+D:\C Sharp\10-loops\obj\Debug\net9.0\10-loops.csproj.CoreCompileInputs.cache
+D:\C Sharp\10-loops\obj\Debug\net9.0\10-loops.dll
+D:\C Sharp\10-loops\obj\Debug\net9.0\refint\10-loops.dll
+D:\C Sharp\10-loops\obj\Debug\net9.0\10-loops.pdb
+D:\C Sharp\10-loops\obj\Debug\net9.0\10-loops.genruntimeconfig.cache
+D:\C Sharp\10-loops\obj\Debug\net9.0\ref\10-loops.dll

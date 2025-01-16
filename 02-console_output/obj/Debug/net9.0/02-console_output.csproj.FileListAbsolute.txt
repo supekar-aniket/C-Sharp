@@ -1,0 +1,14 @@
+d:\C Sharp\02-console_output\obj\Debug\net9.0\02-console_output.GeneratedMSBuildEditorConfig.editorconfig
+d:\C Sharp\02-console_output\obj\Debug\net9.0\02-console_output.AssemblyInfoInputs.cache
+d:\C Sharp\02-console_output\obj\Debug\net9.0\02-console_output.AssemblyInfo.cs
+d:\C Sharp\02-console_output\obj\Debug\net9.0\02-console_output.csproj.CoreCompileInputs.cache
+d:\C Sharp\02-console_output\bin\Debug\net9.0\02-console_output.exe
+d:\C Sharp\02-console_output\bin\Debug\net9.0\02-console_output.deps.json
+d:\C Sharp\02-console_output\bin\Debug\net9.0\02-console_output.runtimeconfig.json
+d:\C Sharp\02-console_output\bin\Debug\net9.0\02-console_output.dll
+d:\C Sharp\02-console_output\bin\Debug\net9.0\02-console_output.pdb
+d:\C Sharp\02-console_output\obj\Debug\net9.0\02-console_output.dll
+d:\C Sharp\02-console_output\obj\Debug\net9.0\refint\02-console_output.dll
+d:\C Sharp\02-console_output\obj\Debug\net9.0\02-console_output.pdb
+d:\C Sharp\02-console_output\obj\Debug\net9.0\02-console_output.genruntimeconfig.cache
+d:\C Sharp\02-console_output\obj\Debug\net9.0\ref\02-console_output.dll

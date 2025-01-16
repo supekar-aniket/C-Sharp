@@ -1,0 +1,14 @@
+D:\C Sharp\01-FirstProgram\01-FirstProgram\bin\Debug\net8.0\01-FirstProgram.exe
+D:\C Sharp\01-FirstProgram\01-FirstProgram\bin\Debug\net8.0\01-FirstProgram.deps.json
+D:\C Sharp\01-FirstProgram\01-FirstProgram\bin\Debug\net8.0\01-FirstProgram.runtimeconfig.json
+D:\C Sharp\01-FirstProgram\01-FirstProgram\bin\Debug\net8.0\01-FirstProgram.dll
+D:\C Sharp\01-FirstProgram\01-FirstProgram\bin\Debug\net8.0\01-FirstProgram.pdb
+D:\C Sharp\01-FirstProgram\01-FirstProgram\obj\Debug\net8.0\01-FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\01-FirstProgram\01-FirstProgram\obj\Debug\net8.0\01-FirstProgram.AssemblyInfoInputs.cache
+D:\C Sharp\01-FirstProgram\01-FirstProgram\obj\Debug\net8.0\01-FirstProgram.AssemblyInfo.cs
+D:\C Sharp\01-FirstProgram\01-FirstProgram\obj\Debug\net8.0\01-FirstProgram.csproj.CoreCompileInputs.cache
+D:\C Sharp\01-FirstProgram\01-FirstProgram\obj\Debug\net8.0\01-FirstProgram.dll
+D:\C Sharp\01-FirstProgram\01-FirstProgram\obj\Debug\net8.0\refint\01-FirstProgram.dll
+D:\C Sharp\01-FirstProgram\01-FirstProgram\obj\Debug\net8.0\01-FirstProgram.pdb
+D:\C Sharp\01-FirstProgram\01-FirstProgram\obj\Debug\net8.0\01-FirstProgram.genruntimeconfig.cache
+D:\C Sharp\01-FirstProgram\01-FirstProgram\obj\Debug\net8.0\ref\01-FirstProgram.dll

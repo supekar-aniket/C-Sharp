@@ -1,0 +1,14 @@
+D:\C Sharp\08-if_statement\bin\Debug\net9.0\08-if_statement.exe
+D:\C Sharp\08-if_statement\bin\Debug\net9.0\08-if_statement.deps.json
+D:\C Sharp\08-if_statement\bin\Debug\net9.0\08-if_statement.runtimeconfig.json
+D:\C Sharp\08-if_statement\bin\Debug\net9.0\08-if_statement.dll
+D:\C Sharp\08-if_statement\bin\Debug\net9.0\08-if_statement.pdb
+D:\C Sharp\08-if_statement\obj\Debug\net9.0\08-if_statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\08-if_statement\obj\Debug\net9.0\08-if_statement.AssemblyInfoInputs.cache
+D:\C Sharp\08-if_statement\obj\Debug\net9.0\08-if_statement.AssemblyInfo.cs
+D:\C Sharp\08-if_statement\obj\Debug\net9.0\08-if_statement.csproj.CoreCompileInputs.cache
+D:\C Sharp\08-if_statement\obj\Debug\net9.0\08-if_statement.dll
+D:\C Sharp\08-if_statement\obj\Debug\net9.0\refint\08-if_statement.dll
+D:\C Sharp\08-if_statement\obj\Debug\net9.0\08-if_statement.pdb
+D:\C Sharp\08-if_statement\obj\Debug\net9.0\08-if_statement.genruntimeconfig.cache
+D:\C Sharp\08-if_statement\obj\Debug\net9.0\ref\08-if_statement.dll
