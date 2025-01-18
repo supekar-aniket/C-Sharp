@@ -12,3 +12,4 @@ D:\C Sharp\10-loops\obj\Debug\net9.0\refint\10-loops.dll
 D:\C Sharp\10-loops\obj\Debug\net9.0\10-loops.pdb
 D:\C Sharp\10-loops\obj\Debug\net9.0\10-loops.genruntimeconfig.cache
 D:\C Sharp\10-loops\obj\Debug\net9.0\ref\10-loops.dll
+D:\C Sharp\10-loops\obj\Debug\net9.0\10-loops.sourcelink.json
