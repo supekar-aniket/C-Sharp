@@ -1,0 +1,15 @@
+D:\C Sharp\13-simple_calculator\bin\Debug\net9.0\13-simple_calculator.exe
+D:\C Sharp\13-simple_calculator\bin\Debug\net9.0\13-simple_calculator.deps.json
+D:\C Sharp\13-simple_calculator\bin\Debug\net9.0\13-simple_calculator.runtimeconfig.json
+D:\C Sharp\13-simple_calculator\bin\Debug\net9.0\13-simple_calculator.dll
+D:\C Sharp\13-simple_calculator\bin\Debug\net9.0\13-simple_calculator.pdb
+D:\C Sharp\13-simple_calculator\obj\Debug\net9.0\13-simple_calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\13-simple_calculator\obj\Debug\net9.0\13-simple_calculator.AssemblyInfoInputs.cache
+D:\C Sharp\13-simple_calculator\obj\Debug\net9.0\13-simple_calculator.AssemblyInfo.cs
+D:\C Sharp\13-simple_calculator\obj\Debug\net9.0\13-simple_calculator.csproj.CoreCompileInputs.cache
+D:\C Sharp\13-simple_calculator\obj\Debug\net9.0\13-simple_calculator.sourcelink.json
+D:\C Sharp\13-simple_calculator\obj\Debug\net9.0\13-simple_calculator.dll
+D:\C Sharp\13-simple_calculator\obj\Debug\net9.0\refint\13-simple_calculator.dll
+D:\C Sharp\13-simple_calculator\obj\Debug\net9.0\13-simple_calculator.pdb
+D:\C Sharp\13-simple_calculator\obj\Debug\net9.0\13-simple_calculator.genruntimeconfig.cache
+D:\C Sharp\13-simple_calculator\obj\Debug\net9.0\ref\13-simple_calculator.dll
