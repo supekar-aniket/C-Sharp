@@ -1,0 +1,15 @@
+D:\C Sharp\15-methods\bin\Debug\net9.0\15-methods.exe
+D:\C Sharp\15-methods\bin\Debug\net9.0\15-methods.deps.json
+D:\C Sharp\15-methods\bin\Debug\net9.0\15-methods.runtimeconfig.json
+D:\C Sharp\15-methods\bin\Debug\net9.0\15-methods.dll
+D:\C Sharp\15-methods\bin\Debug\net9.0\15-methods.pdb
+D:\C Sharp\15-methods\obj\Debug\net9.0\15-methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\15-methods\obj\Debug\net9.0\15-methods.AssemblyInfoInputs.cache
+D:\C Sharp\15-methods\obj\Debug\net9.0\15-methods.AssemblyInfo.cs
+D:\C Sharp\15-methods\obj\Debug\net9.0\15-methods.csproj.CoreCompileInputs.cache
+D:\C Sharp\15-methods\obj\Debug\net9.0\15-methods.sourcelink.json
+D:\C Sharp\15-methods\obj\Debug\net9.0\15-methods.dll
+D:\C Sharp\15-methods\obj\Debug\net9.0\refint\15-methods.dll
+D:\C Sharp\15-methods\obj\Debug\net9.0\15-methods.pdb
+D:\C Sharp\15-methods\obj\Debug\net9.0\15-methods.genruntimeconfig.cache
+D:\C Sharp\15-methods\obj\Debug\net9.0\ref\15-methods.dll

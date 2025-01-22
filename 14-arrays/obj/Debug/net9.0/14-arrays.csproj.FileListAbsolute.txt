@@ -1,0 +1,15 @@
+D:\C Sharp\14-arrays\bin\Debug\net9.0\14-arrays.exe
+D:\C Sharp\14-arrays\bin\Debug\net9.0\14-arrays.deps.json
+D:\C Sharp\14-arrays\bin\Debug\net9.0\14-arrays.runtimeconfig.json
+D:\C Sharp\14-arrays\bin\Debug\net9.0\14-arrays.dll
+D:\C Sharp\14-arrays\bin\Debug\net9.0\14-arrays.pdb
+D:\C Sharp\14-arrays\obj\Debug\net9.0\14-arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\14-arrays\obj\Debug\net9.0\14-arrays.AssemblyInfoInputs.cache
+D:\C Sharp\14-arrays\obj\Debug\net9.0\14-arrays.AssemblyInfo.cs
+D:\C Sharp\14-arrays\obj\Debug\net9.0\14-arrays.csproj.CoreCompileInputs.cache
+D:\C Sharp\14-arrays\obj\Debug\net9.0\14-arrays.sourcelink.json
+D:\C Sharp\14-arrays\obj\Debug\net9.0\14-arrays.dll
+D:\C Sharp\14-arrays\obj\Debug\net9.0\refint\14-arrays.dll
+D:\C Sharp\14-arrays\obj\Debug\net9.0\14-arrays.pdb
+D:\C Sharp\14-arrays\obj\Debug\net9.0\14-arrays.genruntimeconfig.cache
+D:\C Sharp\14-arrays\obj\Debug\net9.0\ref\14-arrays.dll
