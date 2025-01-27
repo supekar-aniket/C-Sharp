@@ -1,0 +1,15 @@
+D:\C Sharp\19-params_keyword\bin\Debug\net9.0\19-params_keyword.exe
+D:\C Sharp\19-params_keyword\bin\Debug\net9.0\19-params_keyword.deps.json
+D:\C Sharp\19-params_keyword\bin\Debug\net9.0\19-params_keyword.runtimeconfig.json
+D:\C Sharp\19-params_keyword\bin\Debug\net9.0\19-params_keyword.dll
+D:\C Sharp\19-params_keyword\bin\Debug\net9.0\19-params_keyword.pdb
+D:\C Sharp\19-params_keyword\obj\Debug\net9.0\19-params_keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\19-params_keyword\obj\Debug\net9.0\19-params_keyword.AssemblyInfoInputs.cache
+D:\C Sharp\19-params_keyword\obj\Debug\net9.0\19-params_keyword.AssemblyInfo.cs
+D:\C Sharp\19-params_keyword\obj\Debug\net9.0\19-params_keyword.csproj.CoreCompileInputs.cache
+D:\C Sharp\19-params_keyword\obj\Debug\net9.0\19-params_keyword.sourcelink.json
+D:\C Sharp\19-params_keyword\obj\Debug\net9.0\19-params_keyword.dll
+D:\C Sharp\19-params_keyword\obj\Debug\net9.0\refint\19-params_keyword.dll
+D:\C Sharp\19-params_keyword\obj\Debug\net9.0\19-params_keyword.pdb
+D:\C Sharp\19-params_keyword\obj\Debug\net9.0\19-params_keyword.genruntimeconfig.cache
+D:\C Sharp\19-params_keyword\obj\Debug\net9.0\ref\19-params_keyword.dll

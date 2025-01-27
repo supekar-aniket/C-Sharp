@@ -1,0 +1,15 @@
+D:\C Sharp\20-exception_handling\bin\Debug\net9.0\20-exception_handling.exe
+D:\C Sharp\20-exception_handling\bin\Debug\net9.0\20-exception_handling.deps.json
+D:\C Sharp\20-exception_handling\bin\Debug\net9.0\20-exception_handling.runtimeconfig.json
+D:\C Sharp\20-exception_handling\bin\Debug\net9.0\20-exception_handling.dll
+D:\C Sharp\20-exception_handling\bin\Debug\net9.0\20-exception_handling.pdb
+D:\C Sharp\20-exception_handling\obj\Debug\net9.0\20-exception_handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\20-exception_handling\obj\Debug\net9.0\20-exception_handling.AssemblyInfoInputs.cache
+D:\C Sharp\20-exception_handling\obj\Debug\net9.0\20-exception_handling.AssemblyInfo.cs
+D:\C Sharp\20-exception_handling\obj\Debug\net9.0\20-exception_handling.csproj.CoreCompileInputs.cache
+D:\C Sharp\20-exception_handling\obj\Debug\net9.0\20-exception_handling.sourcelink.json
+D:\C Sharp\20-exception_handling\obj\Debug\net9.0\20-exception_handling.dll
+D:\C Sharp\20-exception_handling\obj\Debug\net9.0\refint\20-exception_handling.dll
+D:\C Sharp\20-exception_handling\obj\Debug\net9.0\20-exception_handling.pdb
+D:\C Sharp\20-exception_handling\obj\Debug\net9.0\20-exception_handling.genruntimeconfig.cache
+D:\C Sharp\20-exception_handling\obj\Debug\net9.0\ref\20-exception_handling.dll
