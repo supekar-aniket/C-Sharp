@@ -1,0 +1,15 @@
+D:\C Sharp\29-abstract_class\bin\Debug\net9.0\29-abstract_class.exe
+D:\C Sharp\29-abstract_class\bin\Debug\net9.0\29-abstract_class.deps.json
+D:\C Sharp\29-abstract_class\bin\Debug\net9.0\29-abstract_class.runtimeconfig.json
+D:\C Sharp\29-abstract_class\bin\Debug\net9.0\29-abstract_class.dll
+D:\C Sharp\29-abstract_class\bin\Debug\net9.0\29-abstract_class.pdb
+D:\C Sharp\29-abstract_class\obj\Debug\net9.0\29-abstract_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\29-abstract_class\obj\Debug\net9.0\29-abstract_class.AssemblyInfoInputs.cache
+D:\C Sharp\29-abstract_class\obj\Debug\net9.0\29-abstract_class.AssemblyInfo.cs
+D:\C Sharp\29-abstract_class\obj\Debug\net9.0\29-abstract_class.csproj.CoreCompileInputs.cache
+D:\C Sharp\29-abstract_class\obj\Debug\net9.0\29-abstract_class.sourcelink.json
+D:\C Sharp\29-abstract_class\obj\Debug\net9.0\29-abstract_class.dll
+D:\C Sharp\29-abstract_class\obj\Debug\net9.0\refint\29-abstract_class.dll
+D:\C Sharp\29-abstract_class\obj\Debug\net9.0\29-abstract_class.pdb
+D:\C Sharp\29-abstract_class\obj\Debug\net9.0\29-abstract_class.genruntimeconfig.cache
+D:\C Sharp\29-abstract_class\obj\Debug\net9.0\ref\29-abstract_class.dll
