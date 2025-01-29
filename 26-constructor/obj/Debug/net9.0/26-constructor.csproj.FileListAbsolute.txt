@@ -1,0 +1,15 @@
+D:\C Sharp\26-constructor\bin\Debug\net9.0\26-constructor.exe
+D:\C Sharp\26-constructor\bin\Debug\net9.0\26-constructor.deps.json
+D:\C Sharp\26-constructor\bin\Debug\net9.0\26-constructor.runtimeconfig.json
+D:\C Sharp\26-constructor\bin\Debug\net9.0\26-constructor.dll
+D:\C Sharp\26-constructor\bin\Debug\net9.0\26-constructor.pdb
+D:\C Sharp\26-constructor\obj\Debug\net9.0\26-constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\26-constructor\obj\Debug\net9.0\26-constructor.AssemblyInfoInputs.cache
+D:\C Sharp\26-constructor\obj\Debug\net9.0\26-constructor.AssemblyInfo.cs
+D:\C Sharp\26-constructor\obj\Debug\net9.0\26-constructor.csproj.CoreCompileInputs.cache
+D:\C Sharp\26-constructor\obj\Debug\net9.0\26-constructor.sourcelink.json
+D:\C Sharp\26-constructor\obj\Debug\net9.0\26-constructor.dll
+D:\C Sharp\26-constructor\obj\Debug\net9.0\refint\26-constructor.dll
+D:\C Sharp\26-constructor\obj\Debug\net9.0\26-constructor.pdb
+D:\C Sharp\26-constructor\obj\Debug\net9.0\26-constructor.genruntimeconfig.cache
+D:\C Sharp\26-constructor\obj\Debug\net9.0\ref\26-constructor.dll
