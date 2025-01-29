@@ -1,0 +1,15 @@
+D:\C Sharp\23-multidimentional_array\23-multidimentional_array\bin\Debug\net8.0\23-multidimentional_array.exe
+D:\C Sharp\23-multidimentional_array\23-multidimentional_array\bin\Debug\net8.0\23-multidimentional_array.deps.json
+D:\C Sharp\23-multidimentional_array\23-multidimentional_array\bin\Debug\net8.0\23-multidimentional_array.runtimeconfig.json
+D:\C Sharp\23-multidimentional_array\23-multidimentional_array\bin\Debug\net8.0\23-multidimentional_array.dll
+D:\C Sharp\23-multidimentional_array\23-multidimentional_array\bin\Debug\net8.0\23-multidimentional_array.pdb
+D:\C Sharp\23-multidimentional_array\23-multidimentional_array\obj\Debug\net8.0\23-multidimentional_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\23-multidimentional_array\23-multidimentional_array\obj\Debug\net8.0\23-multidimentional_array.AssemblyInfoInputs.cache
+D:\C Sharp\23-multidimentional_array\23-multidimentional_array\obj\Debug\net8.0\23-multidimentional_array.AssemblyInfo.cs
+D:\C Sharp\23-multidimentional_array\23-multidimentional_array\obj\Debug\net8.0\23-multidimentional_array.csproj.CoreCompileInputs.cache
+D:\C Sharp\23-multidimentional_array\23-multidimentional_array\obj\Debug\net8.0\23-multidimentional_array.sourcelink.json
+D:\C Sharp\23-multidimentional_array\23-multidimentional_array\obj\Debug\net8.0\23-multidimentional_array.dll
+D:\C Sharp\23-multidimentional_array\23-multidimentional_array\obj\Debug\net8.0\refint\23-multidimentional_array.dll
+D:\C Sharp\23-multidimentional_array\23-multidimentional_array\obj\Debug\net8.0\23-multidimentional_array.pdb
+D:\C Sharp\23-multidimentional_array\23-multidimentional_array\obj\Debug\net8.0\23-multidimentional_array.genruntimeconfig.cache
+D:\C Sharp\23-multidimentional_array\23-multidimentional_array\obj\Debug\net8.0\ref\23-multidimentional_array.dll
