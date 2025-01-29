@@ -1,0 +1,15 @@
+D:\C Sharp\21-conditional_operator\bin\Debug\net9.0\21-conditional_operator.exe
+D:\C Sharp\21-conditional_operator\bin\Debug\net9.0\21-conditional_operator.deps.json
+D:\C Sharp\21-conditional_operator\bin\Debug\net9.0\21-conditional_operator.runtimeconfig.json
+D:\C Sharp\21-conditional_operator\bin\Debug\net9.0\21-conditional_operator.dll
+D:\C Sharp\21-conditional_operator\bin\Debug\net9.0\21-conditional_operator.pdb
+D:\C Sharp\21-conditional_operator\obj\Debug\net9.0\21-conditional_operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\21-conditional_operator\obj\Debug\net9.0\21-conditional_operator.AssemblyInfoInputs.cache
+D:\C Sharp\21-conditional_operator\obj\Debug\net9.0\21-conditional_operator.AssemblyInfo.cs
+D:\C Sharp\21-conditional_operator\obj\Debug\net9.0\21-conditional_operator.csproj.CoreCompileInputs.cache
+D:\C Sharp\21-conditional_operator\obj\Debug\net9.0\21-conditional_operator.sourcelink.json
+D:\C Sharp\21-conditional_operator\obj\Debug\net9.0\21-conditional_operator.dll
+D:\C Sharp\21-conditional_operator\obj\Debug\net9.0\refint\21-conditional_operator.dll
+D:\C Sharp\21-conditional_operator\obj\Debug\net9.0\21-conditional_operator.pdb
+D:\C Sharp\21-conditional_operator\obj\Debug\net9.0\21-conditional_operator.genruntimeconfig.cache
+D:\C Sharp\21-conditional_operator\obj\Debug\net9.0\ref\21-conditional_operator.dll
