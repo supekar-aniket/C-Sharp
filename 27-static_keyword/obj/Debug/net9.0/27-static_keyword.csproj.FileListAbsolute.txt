@@ -1,0 +1,15 @@
+D:\C Sharp\27-static_keyword\bin\Debug\net9.0\27-static_keyword.exe
+D:\C Sharp\27-static_keyword\bin\Debug\net9.0\27-static_keyword.deps.json
+D:\C Sharp\27-static_keyword\bin\Debug\net9.0\27-static_keyword.runtimeconfig.json
+D:\C Sharp\27-static_keyword\bin\Debug\net9.0\27-static_keyword.dll
+D:\C Sharp\27-static_keyword\bin\Debug\net9.0\27-static_keyword.pdb
+D:\C Sharp\27-static_keyword\obj\Debug\net9.0\27-static_keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\27-static_keyword\obj\Debug\net9.0\27-static_keyword.AssemblyInfoInputs.cache
+D:\C Sharp\27-static_keyword\obj\Debug\net9.0\27-static_keyword.AssemblyInfo.cs
+D:\C Sharp\27-static_keyword\obj\Debug\net9.0\27-static_keyword.csproj.CoreCompileInputs.cache
+D:\C Sharp\27-static_keyword\obj\Debug\net9.0\27-static_keyword.sourcelink.json
+D:\C Sharp\27-static_keyword\obj\Debug\net9.0\27-static_keyword.dll
+D:\C Sharp\27-static_keyword\obj\Debug\net9.0\refint\27-static_keyword.dll
+D:\C Sharp\27-static_keyword\obj\Debug\net9.0\27-static_keyword.pdb
+D:\C Sharp\27-static_keyword\obj\Debug\net9.0\27-static_keyword.genruntimeconfig.cache
+D:\C Sharp\27-static_keyword\obj\Debug\net9.0\ref\27-static_keyword.dll
