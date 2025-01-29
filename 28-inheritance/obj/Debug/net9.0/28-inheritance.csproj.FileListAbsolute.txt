@@ -1,0 +1,15 @@
+D:\C Sharp\28-inheritance\bin\Debug\net9.0\28-inheritance.exe
+D:\C Sharp\28-inheritance\bin\Debug\net9.0\28-inheritance.deps.json
+D:\C Sharp\28-inheritance\bin\Debug\net9.0\28-inheritance.runtimeconfig.json
+D:\C Sharp\28-inheritance\bin\Debug\net9.0\28-inheritance.dll
+D:\C Sharp\28-inheritance\bin\Debug\net9.0\28-inheritance.pdb
+D:\C Sharp\28-inheritance\obj\Debug\net9.0\28-inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\28-inheritance\obj\Debug\net9.0\28-inheritance.AssemblyInfoInputs.cache
+D:\C Sharp\28-inheritance\obj\Debug\net9.0\28-inheritance.AssemblyInfo.cs
+D:\C Sharp\28-inheritance\obj\Debug\net9.0\28-inheritance.csproj.CoreCompileInputs.cache
+D:\C Sharp\28-inheritance\obj\Debug\net9.0\28-inheritance.sourcelink.json
+D:\C Sharp\28-inheritance\obj\Debug\net9.0\28-inheritance.dll
+D:\C Sharp\28-inheritance\obj\Debug\net9.0\refint\28-inheritance.dll
+D:\C Sharp\28-inheritance\obj\Debug\net9.0\28-inheritance.pdb
+D:\C Sharp\28-inheritance\obj\Debug\net9.0\28-inheritance.genruntimeconfig.cache
+D:\C Sharp\28-inheritance\obj\Debug\net9.0\ref\28-inheritance.dll
