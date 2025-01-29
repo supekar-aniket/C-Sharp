@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C Sharp\\23-classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B39680D9-E965-47E5-9914-323C2E5B3BD2}|23-classes\\23-classes.csproj|d:\\c sharp\\23-classes\\23-classes\\staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39680D9-E965-47E5-9914-323C2E5B3BD2}|23-classes\\23-classes.csproj|solutionrelative:23-classes\\staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39680D9-E965-47E5-9914-323C2E5B3BD2}|23-classes\\23-classes.csproj|d:\\c sharp\\23-classes\\23-classes\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39680D9-E965-47E5-9914-323C2E5B3BD2}|23-classes\\23-classes.csproj|solutionrelative:23-classes\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39680D9-E965-47E5-9914-323C2E5B3BD2}|23-classes\\23-classes.csproj|d:\\c sharp\\23-classes\\23-classes\\publicclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39680D9-E965-47E5-9914-323C2E5B3BD2}|23-classes\\23-classes.csproj|solutionrelative:23-classes\\publicclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticClass.cs",
+              "DocumentMoniker": "D:\\C Sharp\\23-classes\\23-classes\\StaticClass.cs",
+              "RelativeDocumentMoniker": "23-classes\\StaticClass.cs",
+              "ToolTip": "D:\\C Sharp\\23-classes\\23-classes\\StaticClass.cs",
+              "RelativeToolTip": "23-classes\\StaticClass.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:51:20.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublicClass.cs",
+              "DocumentMoniker": "D:\\C Sharp\\23-classes\\23-classes\\PublicClass.cs",
+              "RelativeDocumentMoniker": "23-classes\\PublicClass.cs",
+              "ToolTip": "D:\\C Sharp\\23-classes\\23-classes\\PublicClass.cs",
+              "RelativeToolTip": "23-classes\\PublicClass.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:45:28.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "D:\\C Sharp\\23-classes\\23-classes\\MainClass.cs",
+              "RelativeDocumentMoniker": "23-classes\\MainClass.cs",
+              "ToolTip": "D:\\C Sharp\\23-classes\\23-classes\\MainClass.cs",
+              "RelativeToolTip": "23-classes\\MainClass.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:28:05.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

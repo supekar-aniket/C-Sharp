@@ -1,0 +1,15 @@
+D:\C Sharp\23-classes\23-classes\bin\Debug\net8.0\23-classes.exe
+D:\C Sharp\23-classes\23-classes\bin\Debug\net8.0\23-classes.deps.json
+D:\C Sharp\23-classes\23-classes\bin\Debug\net8.0\23-classes.runtimeconfig.json
+D:\C Sharp\23-classes\23-classes\bin\Debug\net8.0\23-classes.dll
+D:\C Sharp\23-classes\23-classes\bin\Debug\net8.0\23-classes.pdb
+D:\C Sharp\23-classes\23-classes\obj\Debug\net8.0\23-classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\23-classes\23-classes\obj\Debug\net8.0\23-classes.AssemblyInfoInputs.cache
+D:\C Sharp\23-classes\23-classes\obj\Debug\net8.0\23-classes.AssemblyInfo.cs
+D:\C Sharp\23-classes\23-classes\obj\Debug\net8.0\23-classes.csproj.CoreCompileInputs.cache
+D:\C Sharp\23-classes\23-classes\obj\Debug\net8.0\23-classes.sourcelink.json
+D:\C Sharp\23-classes\23-classes\obj\Debug\net8.0\23-classes.dll
+D:\C Sharp\23-classes\23-classes\obj\Debug\net8.0\refint\23-classes.dll
+D:\C Sharp\23-classes\23-classes\obj\Debug\net8.0\23-classes.pdb
+D:\C Sharp\23-classes\23-classes\obj\Debug\net8.0\23-classes.genruntimeconfig.cache
+D:\C Sharp\23-classes\23-classes\obj\Debug\net8.0\ref\23-classes.dll
