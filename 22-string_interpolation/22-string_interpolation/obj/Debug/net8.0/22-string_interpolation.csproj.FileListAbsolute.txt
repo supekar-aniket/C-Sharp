@@ -1,0 +1,15 @@
+D:\C Sharp\22-string_interpolation\22-string_interpolation\bin\Debug\net8.0\22-string_interpolation.exe
+D:\C Sharp\22-string_interpolation\22-string_interpolation\bin\Debug\net8.0\22-string_interpolation.deps.json
+D:\C Sharp\22-string_interpolation\22-string_interpolation\bin\Debug\net8.0\22-string_interpolation.runtimeconfig.json
+D:\C Sharp\22-string_interpolation\22-string_interpolation\bin\Debug\net8.0\22-string_interpolation.dll
+D:\C Sharp\22-string_interpolation\22-string_interpolation\bin\Debug\net8.0\22-string_interpolation.pdb
+D:\C Sharp\22-string_interpolation\22-string_interpolation\obj\Debug\net8.0\22-string_interpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\22-string_interpolation\22-string_interpolation\obj\Debug\net8.0\22-string_interpolation.AssemblyInfoInputs.cache
+D:\C Sharp\22-string_interpolation\22-string_interpolation\obj\Debug\net8.0\22-string_interpolation.AssemblyInfo.cs
+D:\C Sharp\22-string_interpolation\22-string_interpolation\obj\Debug\net8.0\22-string_interpolation.csproj.CoreCompileInputs.cache
+D:\C Sharp\22-string_interpolation\22-string_interpolation\obj\Debug\net8.0\22-string_interpolation.sourcelink.json
+D:\C Sharp\22-string_interpolation\22-string_interpolation\obj\Debug\net8.0\22-string_interpolation.dll
+D:\C Sharp\22-string_interpolation\22-string_interpolation\obj\Debug\net8.0\refint\22-string_interpolation.dll
+D:\C Sharp\22-string_interpolation\22-string_interpolation\obj\Debug\net8.0\22-string_interpolation.pdb
+D:\C Sharp\22-string_interpolation\22-string_interpolation\obj\Debug\net8.0\22-string_interpolation.genruntimeconfig.cache
+D:\C Sharp\22-string_interpolation\22-string_interpolation\obj\Debug\net8.0\ref\22-string_interpolation.dll
