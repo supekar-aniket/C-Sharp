@@ -1,0 +1,15 @@
+D:\C Sharp\25-objects\25-objects\bin\Debug\net8.0\25-objects.exe
+D:\C Sharp\25-objects\25-objects\bin\Debug\net8.0\25-objects.deps.json
+D:\C Sharp\25-objects\25-objects\bin\Debug\net8.0\25-objects.runtimeconfig.json
+D:\C Sharp\25-objects\25-objects\bin\Debug\net8.0\25-objects.dll
+D:\C Sharp\25-objects\25-objects\bin\Debug\net8.0\25-objects.pdb
+D:\C Sharp\25-objects\25-objects\obj\Debug\net8.0\25-objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\25-objects\25-objects\obj\Debug\net8.0\25-objects.AssemblyInfoInputs.cache
+D:\C Sharp\25-objects\25-objects\obj\Debug\net8.0\25-objects.AssemblyInfo.cs
+D:\C Sharp\25-objects\25-objects\obj\Debug\net8.0\25-objects.csproj.CoreCompileInputs.cache
+D:\C Sharp\25-objects\25-objects\obj\Debug\net8.0\25-objects.sourcelink.json
+D:\C Sharp\25-objects\25-objects\obj\Debug\net8.0\25-objects.dll
+D:\C Sharp\25-objects\25-objects\obj\Debug\net8.0\refint\25-objects.dll
+D:\C Sharp\25-objects\25-objects\obj\Debug\net8.0\25-objects.pdb
+D:\C Sharp\25-objects\25-objects\obj\Debug\net8.0\25-objects.genruntimeconfig.cache
+D:\C Sharp\25-objects\25-objects\obj\Debug\net8.0\ref\25-objects.dll
