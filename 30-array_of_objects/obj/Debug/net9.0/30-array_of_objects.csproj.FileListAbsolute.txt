@@ -1,0 +1,15 @@
+D:\C Sharp\30-array_of_objects\bin\Debug\net9.0\30-array_of_objects.exe
+D:\C Sharp\30-array_of_objects\bin\Debug\net9.0\30-array_of_objects.deps.json
+D:\C Sharp\30-array_of_objects\bin\Debug\net9.0\30-array_of_objects.runtimeconfig.json
+D:\C Sharp\30-array_of_objects\bin\Debug\net9.0\30-array_of_objects.dll
+D:\C Sharp\30-array_of_objects\bin\Debug\net9.0\30-array_of_objects.pdb
+D:\C Sharp\30-array_of_objects\obj\Debug\net9.0\30-array_of_objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\30-array_of_objects\obj\Debug\net9.0\30-array_of_objects.AssemblyInfoInputs.cache
+D:\C Sharp\30-array_of_objects\obj\Debug\net9.0\30-array_of_objects.AssemblyInfo.cs
+D:\C Sharp\30-array_of_objects\obj\Debug\net9.0\30-array_of_objects.csproj.CoreCompileInputs.cache
+D:\C Sharp\30-array_of_objects\obj\Debug\net9.0\30-array_of_objects.sourcelink.json
+D:\C Sharp\30-array_of_objects\obj\Debug\net9.0\30-array_of_objects.dll
+D:\C Sharp\30-array_of_objects\obj\Debug\net9.0\refint\30-array_of_objects.dll
+D:\C Sharp\30-array_of_objects\obj\Debug\net9.0\30-array_of_objects.pdb
+D:\C Sharp\30-array_of_objects\obj\Debug\net9.0\30-array_of_objects.genruntimeconfig.cache
+D:\C Sharp\30-array_of_objects\obj\Debug\net9.0\ref\30-array_of_objects.dll
