@@ -1,0 +1,15 @@
+D:\C Sharp\31-objects_as_arguments\bin\Debug\net9.0\31-objects_as_arguments.exe
+D:\C Sharp\31-objects_as_arguments\bin\Debug\net9.0\31-objects_as_arguments.deps.json
+D:\C Sharp\31-objects_as_arguments\bin\Debug\net9.0\31-objects_as_arguments.runtimeconfig.json
+D:\C Sharp\31-objects_as_arguments\bin\Debug\net9.0\31-objects_as_arguments.dll
+D:\C Sharp\31-objects_as_arguments\bin\Debug\net9.0\31-objects_as_arguments.pdb
+D:\C Sharp\31-objects_as_arguments\obj\Debug\net9.0\31-objects_as_arguments.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\31-objects_as_arguments\obj\Debug\net9.0\31-objects_as_arguments.AssemblyInfoInputs.cache
+D:\C Sharp\31-objects_as_arguments\obj\Debug\net9.0\31-objects_as_arguments.AssemblyInfo.cs
+D:\C Sharp\31-objects_as_arguments\obj\Debug\net9.0\31-objects_as_arguments.csproj.CoreCompileInputs.cache
+D:\C Sharp\31-objects_as_arguments\obj\Debug\net9.0\31-objects_as_arguments.sourcelink.json
+D:\C Sharp\31-objects_as_arguments\obj\Debug\net9.0\31-objects_as_arguments.dll
+D:\C Sharp\31-objects_as_arguments\obj\Debug\net9.0\refint\31-objects_as_arguments.dll
+D:\C Sharp\31-objects_as_arguments\obj\Debug\net9.0\31-objects_as_arguments.pdb
+D:\C Sharp\31-objects_as_arguments\obj\Debug\net9.0\31-objects_as_arguments.genruntimeconfig.cache
+D:\C Sharp\31-objects_as_arguments\obj\Debug\net9.0\ref\31-objects_as_arguments.dll
