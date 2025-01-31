@@ -1,0 +1,15 @@
+D:\C Sharp\33-polymorphism\33-polymorphism\bin\Debug\net8.0\33-polymorphism.exe
+D:\C Sharp\33-polymorphism\33-polymorphism\bin\Debug\net8.0\33-polymorphism.deps.json
+D:\C Sharp\33-polymorphism\33-polymorphism\bin\Debug\net8.0\33-polymorphism.runtimeconfig.json
+D:\C Sharp\33-polymorphism\33-polymorphism\bin\Debug\net8.0\33-polymorphism.dll
+D:\C Sharp\33-polymorphism\33-polymorphism\bin\Debug\net8.0\33-polymorphism.pdb
+D:\C Sharp\33-polymorphism\33-polymorphism\obj\Debug\net8.0\33-polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\33-polymorphism\33-polymorphism\obj\Debug\net8.0\33-polymorphism.AssemblyInfoInputs.cache
+D:\C Sharp\33-polymorphism\33-polymorphism\obj\Debug\net8.0\33-polymorphism.AssemblyInfo.cs
+D:\C Sharp\33-polymorphism\33-polymorphism\obj\Debug\net8.0\33-polymorphism.csproj.CoreCompileInputs.cache
+D:\C Sharp\33-polymorphism\33-polymorphism\obj\Debug\net8.0\33-polymorphism.sourcelink.json
+D:\C Sharp\33-polymorphism\33-polymorphism\obj\Debug\net8.0\33-polymorphism.dll
+D:\C Sharp\33-polymorphism\33-polymorphism\obj\Debug\net8.0\refint\33-polymorphism.dll
+D:\C Sharp\33-polymorphism\33-polymorphism\obj\Debug\net8.0\33-polymorphism.pdb
+D:\C Sharp\33-polymorphism\33-polymorphism\obj\Debug\net8.0\33-polymorphism.genruntimeconfig.cache
+D:\C Sharp\33-polymorphism\33-polymorphism\obj\Debug\net8.0\ref\33-polymorphism.dll
