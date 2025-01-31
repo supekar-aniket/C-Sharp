@@ -1,0 +1,15 @@
+D:\C Sharp\32-toString_method\bin\Debug\net9.0\32-toString_method.exe
+D:\C Sharp\32-toString_method\bin\Debug\net9.0\32-toString_method.deps.json
+D:\C Sharp\32-toString_method\bin\Debug\net9.0\32-toString_method.runtimeconfig.json
+D:\C Sharp\32-toString_method\bin\Debug\net9.0\32-toString_method.dll
+D:\C Sharp\32-toString_method\bin\Debug\net9.0\32-toString_method.pdb
+D:\C Sharp\32-toString_method\obj\Debug\net9.0\32-toString_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\32-toString_method\obj\Debug\net9.0\32-toString_method.AssemblyInfoInputs.cache
+D:\C Sharp\32-toString_method\obj\Debug\net9.0\32-toString_method.AssemblyInfo.cs
+D:\C Sharp\32-toString_method\obj\Debug\net9.0\32-toString_method.csproj.CoreCompileInputs.cache
+D:\C Sharp\32-toString_method\obj\Debug\net9.0\32-toString_method.sourcelink.json
+D:\C Sharp\32-toString_method\obj\Debug\net9.0\32-toString_method.dll
+D:\C Sharp\32-toString_method\obj\Debug\net9.0\refint\32-toString_method.dll
+D:\C Sharp\32-toString_method\obj\Debug\net9.0\32-toString_method.pdb
+D:\C Sharp\32-toString_method\obj\Debug\net9.0\32-toString_method.genruntimeconfig.cache
+D:\C Sharp\32-toString_method\obj\Debug\net9.0\ref\32-toString_method.dll
