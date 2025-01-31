@@ -1,0 +1,15 @@
+D:\C Sharp\34-interface\bin\Debug\net9.0\34-interface.exe
+D:\C Sharp\34-interface\bin\Debug\net9.0\34-interface.deps.json
+D:\C Sharp\34-interface\bin\Debug\net9.0\34-interface.runtimeconfig.json
+D:\C Sharp\34-interface\bin\Debug\net9.0\34-interface.dll
+D:\C Sharp\34-interface\bin\Debug\net9.0\34-interface.pdb
+D:\C Sharp\34-interface\obj\Debug\net9.0\34-interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\34-interface\obj\Debug\net9.0\34-interface.AssemblyInfoInputs.cache
+D:\C Sharp\34-interface\obj\Debug\net9.0\34-interface.AssemblyInfo.cs
+D:\C Sharp\34-interface\obj\Debug\net9.0\34-interface.csproj.CoreCompileInputs.cache
+D:\C Sharp\34-interface\obj\Debug\net9.0\34-interface.sourcelink.json
+D:\C Sharp\34-interface\obj\Debug\net9.0\34-interface.dll
+D:\C Sharp\34-interface\obj\Debug\net9.0\refint\34-interface.dll
+D:\C Sharp\34-interface\obj\Debug\net9.0\34-interface.pdb
+D:\C Sharp\34-interface\obj\Debug\net9.0\34-interface.genruntimeconfig.cache
+D:\C Sharp\34-interface\obj\Debug\net9.0\ref\34-interface.dll
