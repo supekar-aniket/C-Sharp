@@ -1,0 +1,15 @@
+D:\C Sharp\37-getters_setters\bin\Debug\net9.0\37-getters_setters.exe
+D:\C Sharp\37-getters_setters\bin\Debug\net9.0\37-getters_setters.deps.json
+D:\C Sharp\37-getters_setters\bin\Debug\net9.0\37-getters_setters.runtimeconfig.json
+D:\C Sharp\37-getters_setters\bin\Debug\net9.0\37-getters_setters.dll
+D:\C Sharp\37-getters_setters\bin\Debug\net9.0\37-getters_setters.pdb
+D:\C Sharp\37-getters_setters\obj\Debug\net9.0\37-getters_setters.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\37-getters_setters\obj\Debug\net9.0\37-getters_setters.AssemblyInfoInputs.cache
+D:\C Sharp\37-getters_setters\obj\Debug\net9.0\37-getters_setters.AssemblyInfo.cs
+D:\C Sharp\37-getters_setters\obj\Debug\net9.0\37-getters_setters.csproj.CoreCompileInputs.cache
+D:\C Sharp\37-getters_setters\obj\Debug\net9.0\37-getters_setters.sourcelink.json
+D:\C Sharp\37-getters_setters\obj\Debug\net9.0\37-getters_setters.dll
+D:\C Sharp\37-getters_setters\obj\Debug\net9.0\refint\37-getters_setters.dll
+D:\C Sharp\37-getters_setters\obj\Debug\net9.0\37-getters_setters.pdb
+D:\C Sharp\37-getters_setters\obj\Debug\net9.0\37-getters_setters.genruntimeconfig.cache
+D:\C Sharp\37-getters_setters\obj\Debug\net9.0\ref\37-getters_setters.dll
