@@ -1,0 +1,15 @@
+D:\C Sharp\40-threads_and_multithreading\bin\Debug\net9.0\40-threads_and_multithreading.exe
+D:\C Sharp\40-threads_and_multithreading\bin\Debug\net9.0\40-threads_and_multithreading.deps.json
+D:\C Sharp\40-threads_and_multithreading\bin\Debug\net9.0\40-threads_and_multithreading.runtimeconfig.json
+D:\C Sharp\40-threads_and_multithreading\bin\Debug\net9.0\40-threads_and_multithreading.dll
+D:\C Sharp\40-threads_and_multithreading\bin\Debug\net9.0\40-threads_and_multithreading.pdb
+D:\C Sharp\40-threads_and_multithreading\obj\Debug\net9.0\40-threads_and_multithreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\40-threads_and_multithreading\obj\Debug\net9.0\40-threads_and_multithreading.AssemblyInfoInputs.cache
+D:\C Sharp\40-threads_and_multithreading\obj\Debug\net9.0\40-threads_and_multithreading.AssemblyInfo.cs
+D:\C Sharp\40-threads_and_multithreading\obj\Debug\net9.0\40-threads_and_multithreading.csproj.CoreCompileInputs.cache
+D:\C Sharp\40-threads_and_multithreading\obj\Debug\net9.0\40-threads_and_multithreading.sourcelink.json
+D:\C Sharp\40-threads_and_multithreading\obj\Debug\net9.0\40-threads_and_multithreading.dll
+D:\C Sharp\40-threads_and_multithreading\obj\Debug\net9.0\refint\40-threads_and_multithreading.dll
+D:\C Sharp\40-threads_and_multithreading\obj\Debug\net9.0\40-threads_and_multithreading.pdb
+D:\C Sharp\40-threads_and_multithreading\obj\Debug\net9.0\40-threads_and_multithreading.genruntimeconfig.cache
+D:\C Sharp\40-threads_and_multithreading\obj\Debug\net9.0\ref\40-threads_and_multithreading.dll
