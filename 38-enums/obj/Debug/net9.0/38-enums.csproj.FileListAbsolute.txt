@@ -1,0 +1,15 @@
+D:\C Sharp\38-enums\bin\Debug\net9.0\38-enums.exe
+D:\C Sharp\38-enums\bin\Debug\net9.0\38-enums.deps.json
+D:\C Sharp\38-enums\bin\Debug\net9.0\38-enums.runtimeconfig.json
+D:\C Sharp\38-enums\bin\Debug\net9.0\38-enums.dll
+D:\C Sharp\38-enums\bin\Debug\net9.0\38-enums.pdb
+D:\C Sharp\38-enums\obj\Debug\net9.0\38-enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\38-enums\obj\Debug\net9.0\38-enums.AssemblyInfoInputs.cache
+D:\C Sharp\38-enums\obj\Debug\net9.0\38-enums.AssemblyInfo.cs
+D:\C Sharp\38-enums\obj\Debug\net9.0\38-enums.csproj.CoreCompileInputs.cache
+D:\C Sharp\38-enums\obj\Debug\net9.0\38-enums.sourcelink.json
+D:\C Sharp\38-enums\obj\Debug\net9.0\38-enums.dll
+D:\C Sharp\38-enums\obj\Debug\net9.0\refint\38-enums.dll
+D:\C Sharp\38-enums\obj\Debug\net9.0\38-enums.pdb
+D:\C Sharp\38-enums\obj\Debug\net9.0\38-enums.genruntimeconfig.cache
+D:\C Sharp\38-enums\obj\Debug\net9.0\ref\38-enums.dll
