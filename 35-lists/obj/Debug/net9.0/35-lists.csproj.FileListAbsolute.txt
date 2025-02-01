@@ -1,0 +1,15 @@
+D:\C Sharp\35-lists\bin\Debug\net9.0\35-lists.exe
+D:\C Sharp\35-lists\bin\Debug\net9.0\35-lists.deps.json
+D:\C Sharp\35-lists\bin\Debug\net9.0\35-lists.runtimeconfig.json
+D:\C Sharp\35-lists\bin\Debug\net9.0\35-lists.dll
+D:\C Sharp\35-lists\bin\Debug\net9.0\35-lists.pdb
+D:\C Sharp\35-lists\obj\Debug\net9.0\35-lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\35-lists\obj\Debug\net9.0\35-lists.AssemblyInfoInputs.cache
+D:\C Sharp\35-lists\obj\Debug\net9.0\35-lists.AssemblyInfo.cs
+D:\C Sharp\35-lists\obj\Debug\net9.0\35-lists.csproj.CoreCompileInputs.cache
+D:\C Sharp\35-lists\obj\Debug\net9.0\35-lists.sourcelink.json
+D:\C Sharp\35-lists\obj\Debug\net9.0\35-lists.dll
+D:\C Sharp\35-lists\obj\Debug\net9.0\refint\35-lists.dll
+D:\C Sharp\35-lists\obj\Debug\net9.0\35-lists.pdb
+D:\C Sharp\35-lists\obj\Debug\net9.0\35-lists.genruntimeconfig.cache
+D:\C Sharp\35-lists\obj\Debug\net9.0\ref\35-lists.dll
