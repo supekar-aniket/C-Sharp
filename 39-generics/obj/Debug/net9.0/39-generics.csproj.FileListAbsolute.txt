@@ -1,0 +1,15 @@
+D:\C Sharp\39-generics\bin\Debug\net9.0\39-generics.exe
+D:\C Sharp\39-generics\bin\Debug\net9.0\39-generics.deps.json
+D:\C Sharp\39-generics\bin\Debug\net9.0\39-generics.runtimeconfig.json
+D:\C Sharp\39-generics\bin\Debug\net9.0\39-generics.dll
+D:\C Sharp\39-generics\bin\Debug\net9.0\39-generics.pdb
+D:\C Sharp\39-generics\obj\Debug\net9.0\39-generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\39-generics\obj\Debug\net9.0\39-generics.AssemblyInfoInputs.cache
+D:\C Sharp\39-generics\obj\Debug\net9.0\39-generics.AssemblyInfo.cs
+D:\C Sharp\39-generics\obj\Debug\net9.0\39-generics.csproj.CoreCompileInputs.cache
+D:\C Sharp\39-generics\obj\Debug\net9.0\39-generics.sourcelink.json
+D:\C Sharp\39-generics\obj\Debug\net9.0\39-generics.dll
+D:\C Sharp\39-generics\obj\Debug\net9.0\refint\39-generics.dll
+D:\C Sharp\39-generics\obj\Debug\net9.0\39-generics.pdb
+D:\C Sharp\39-generics\obj\Debug\net9.0\39-generics.genruntimeconfig.cache
+D:\C Sharp\39-generics\obj\Debug\net9.0\ref\39-generics.dll
